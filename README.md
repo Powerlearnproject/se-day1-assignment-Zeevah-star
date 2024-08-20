@@ -35,7 +35,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 ans- Comparison: 
 Flexibility: waterfall is rigid and liner, while Agile is flexible and continuously evolving
-Change management: Waterfall is less accomodating to change, whereas Agile embraces changes even late in the project
+Change management: Waterfall is less accomodating to change, whereas Agile embraces changes even late in the project.
 Customer Involvement: Waterfall involves the customer mainly at the end and beginning, while Agile involves the customer throughout the project.
 * Example scenerios for waterfall - The Development of a medical device: requires thorough documentation, rigorous testing, and adherence to
 regulatory standards.
