@@ -80,7 +80,7 @@ Acceptance testing:
 This is a type of testing conducted to determine if a system meets the requirment and is ready to be deployed to the customer.
 importance: It validates that all user expectation and business needs are met.
 
-#Part 2: Introduction to AI and Prompt Engineering
+#Part 2: Introduction to AI and Prompt Engineering.
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
